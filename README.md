@@ -42,6 +42,10 @@ This implementation follows the theoretical framework developed by Hoffman, Holr
 - `stable_marriage.ipynb` — Jupyter Notebook version (recommended for exploration)
 - `stable_marriage.py` — Python script version (cleaner for version control)
 
+## Acknowledgments
+
+This simulation script was developed with assistance from **Grok**, an AI built by xAI.
+
 ## References
 
 - Hoffman, C., Holroyd, A. E., & Peres, Y. (2006). A stable marriage of Poisson and Lebesgue. *Annals of Probability*, 34(4), 1241–1272.
