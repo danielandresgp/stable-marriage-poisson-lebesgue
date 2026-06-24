@@ -63,8 +63,6 @@ This simulation script was developed with assistance from **Grok**, an AI built 
 ## Author
 
 **Daniel Andrés Díaz-Pachón**  
-Research Assistant Professor, 
-
-Division of Biostatistics and Bioinformatics 
-
+Research Assistant Professor, \
+Division of Biostatistics and Bioinformatics \
 University of Miami
