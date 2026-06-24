@@ -33,7 +33,7 @@ This implementation follows the theoretical framework developed by Hoffman, Holr
 | `L`                       | Side length of the simulation box            | Usually `sqrt(M)`                             |
 | `N`                       | Grid resolution                              | 200 – 500                                     |
 | `APPETITE_TYPE`           | Type of appetite distribution                | constant / exponential                        |
-| `APPETITE_MEAN`           | Mean appetite per center                     | 1.0 (critical), >1 (super)                    |
+| `APPETITE_MEAN`           | Mean appetite per center                     | <1 (sub), 1.0 (critical), >1 (super)                    |
 | `USE_STRIPED_TERRITORIES' | Y/N to draw stripes in the territories       | N for Voronoi tessellation or small appetites |
 | `STRIPE_WIDTH`            | Width of concentric stripes in visualization | 0.10 – 0.20                                   |
 | `DPI`                     | Resolution of the saved figure               | 300 (publication quality) , 600 (online)      |
