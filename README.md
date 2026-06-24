@@ -38,7 +38,9 @@ This implementation follows the theoretical framework developed by Hoffman, Holr
 | `STRIPE_WIDTH`            | Width of concentric stripes in visualization | 0.10 – 0.20                                   |
 | `DPI`                     | Resolution of the saved figure               | 300 (publication quality) , 600 (online)      |
 
-The first five parameters are for model construction (observe that the intensity of the point process is $M/L^2$). The last three are for visualization of the generated figure. In particular, the expected intensity of the process
+The first five parameters are for model construction (in particular, the intensity of the point process is $\lambda=M/L^2$). 
+
+The last three parameters are for visualization of the generated figure.
 
 ## Files
 
