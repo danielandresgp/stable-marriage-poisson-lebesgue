@@ -24,6 +24,7 @@ This implementation follows the theoretical framework developed by Hoffman, Holr
 3. The script generates a high-resolution figure saved in the `artifacts/` folder.
 4. The first five parameters are for model construction. The last three are for visualization of the generated figure.
 
+
 ### Main Parameters
 
 | Parameter                 | Description                                  | Suggested Values                              |
@@ -35,7 +36,9 @@ This implementation follows the theoretical framework developed by Hoffman, Holr
 | `APPETITE_MEAN`           | Mean appetite per center                     | 1.0 (critical), >1 (super)                    |
 | `USE_STRIPED_TERRITORIES' | Y/N to draw stripes in the territories       | N for Voronoi tessellation or small appetites |
 | `STRIPE_WIDTH`            | Width of concentric stripes in visualization | 0.10 – 0.20                                   |
-| `DPI`                     | Resolution of the saved figure               | 300 (publication quality)                     |
+| `DPI`                     | Resolution of the saved figure               | 300 (publication quality) , 600 (online)      |
+
+The first five parameters are for model construction (observe that the intensity of the point process is $M/L^2$). The last three are for visualization of the generated figure. In particular, the expected intensity of the process
 
 ## Files
 
