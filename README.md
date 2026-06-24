@@ -1,6 +1,6 @@
 # Stable Marriage of Poisson and Lebesgue
 
-Python simulation of the stable allocation between a Poisson point process and Lebesgue measure, including support for **random appetites**.
+Python simulation of the stable allocation between a Poisson point process and Lebesgue measure, including support for random appetites.
 
 This implementation follows the theoretical framework developed by Hoffman, Holroyd, and Peres for constant appetites, and its extension to random appetites by Díaz–Pachón.
 
