@@ -4,6 +4,11 @@ Python simulation of the stable allocation between a Poisson point process and L
 
 This implementation follows the theoretical framework developed by Hoffman, Holroyd, and Peres for constant appetites, and its extension to random appetites by Díaz–Pachón.
 
+## Files
+
+- `stable_marriage.ipynb` — Jupyter Notebook version (recommended for exploration)
+- `stable_marriage.py` — Python script version (cleaner for version control)
+
 ## Features
 
 - Interactive parameter input with explanations and suggested values
@@ -24,7 +29,6 @@ This implementation follows the theoretical framework developed by Hoffman, Holr
 3. The script generates a high-resolution figure saved in the `artifacts/` folder.
 4. The first five parameters are for model construction. The last three are for visualization of the generated figure.
 
-
 ### Main Parameters
 
 | Parameter                 | Description                                  | Suggested Values                              |
@@ -42,10 +46,17 @@ The first five parameters are for model construction (in particular, the intensi
 
 The last three parameters are for visualization of the generated figure.
 
-## Files
+## Examples
 
-- `stable_marriage.ipynb` — Jupyter Notebook version (recommended for exploration)
-- `stable_marriage.py` — Python script version (cleaner for version control)
+<div>
+      <center>
+         <img src="https://github.com/user-attachments/assets/60e142ec-7e0e-4ec1-8bb5-8374af55b080" width="300" height="300">
+      </center>   
+      <p style="text-align: center"><font size="2"><b>Left:</b> $\lambda = 1$, $\alpha = 0.1$; model paramemters: `M`= 100, `L`=10, `N`=600, `APPETITE_TYPE`=constant, `APPETITE_MEAN` = 0.1; visualization parameters: `USE-STRIPED_TERRITORIES`=Y, `STRIP_WIDTH'=0.1, `DPI`=600  <b>Center:</b>
+      </font></p> 
+   </div>
+
+
 
 ## Acknowledgments
 
