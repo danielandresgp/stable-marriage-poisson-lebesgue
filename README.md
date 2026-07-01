@@ -58,8 +58,7 @@ The last three parameters are for visualization of the generated figure.
          <img src="https://github.com/user-attachments/assets/13c8281b-c617-4456-88da-f81d73f066f3" width="300" height="300">
          <img src="https://github.com/user-attachments/assets/d4ad37f8-59e1-4eac-923d-7636b4324666" width="300" height="300">
       </center>   
-      <p style="text-align: center"><font size="2"><b>Left:</b> $\lambda = 1$, $\alpha = 0.1$. <b>Center:</b> $\lambda = 1$, $\alpha = 0.5$.<br>
-    model paramemters: M=100, L=10, N=600, APPETITE_TYPE=constant, APPETITE_MEAN=0.1; visualization parameters: USE-STRIPED_TERRITORIES=Y, STRIP_WIDTH=0.1, DPI=600  ; APPETITE_MEAN=0.5
+      <p style="text-align: center"><font size="2"> For all models, $\lambda=1$.
       </font></p> 
    </div>
 
