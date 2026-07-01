@@ -54,6 +54,7 @@ The last three parameters are for visualization of the generated figure.
          <img src="https://github.com/user-attachments/assets/f60446d8-b03f-420f-8571-d04dcc1ca86f" width="250" height="250">
          <img src="https://github.com/user-attachments/assets/affae5c3-4bd7-4d77-a028-42c474fdb3ba" width="250" height="250">
          <img src="https://github.com/user-attachments/assets/6750e526-f843-423e-8006-621ce25d0712" width="250" height="250"> 
+         <img src="https://github.com/user-attachments/assets/133a7311-c6d9-45a2-b032-a17e131a9637" width="250" height="250">
       </center>   
       <p style="text-align: center"><font size="2"><b>Left:</b> $\lambda = 1$, $\alpha = 0.1$. <b>Center:</b> $\lambda = 1$, $\alpha = 0.5$.<br>
     model paramemters: M=100, L=10, N=600, APPETITE_TYPE=constant, APPETITE_MEAN=0.1; visualization parameters: USE-STRIPED_TERRITORIES=Y, STRIP_WIDTH=0.1, DPI=600  ; APPETITE_MEAN=0.5
