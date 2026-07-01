@@ -50,7 +50,7 @@ The last three parameters are for visualization of the generated figure.
 
 <div>
       <center>
-         <img src="https://github.com/user-attachments/assets/60e142ec-7e0e-4ec1-8bb5-8374af55b080" width="300" height="300">
+         <img src="https://github.com/user-attachments/assets/60e142ec-7e0e-4ec1-8bb5-8374af55b080" width="250" height="250">
       </center>   
       <p style="text-align: center"><font size="2"><b>Left:</b> $\lambda = 1$, $\alpha = 0.1$; model paramemters: `M`= 100, `L`=10, `N`=600, `APPETITE_TYPE`=constant, `APPETITE_MEAN` = 0.1; visualization parameters: `USE-STRIPED_TERRITORIES`=Y, `STRIP_WIDTH'=0.1, `DPI`=600  <b>Center:</b>
       </font></p> 
