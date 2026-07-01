@@ -75,7 +75,7 @@ This simulation script was developed with assistance from **Grok**, an AI built 
 - Freire M. V., Popov S., & Vachkovskaia M. (2007). Percolation for the stable marriage of Poisson and Lebesgue. *Stochastic Processes and Their Applications*, 117(4), 514–525.
 - Díaz–Pachón D. A. (2012). A note on large deviations for the stable marriage of Poisson and Lebesgue with random appetites. *Journal of Theoretical Probability*, 25(1), 77–91.
 - Díaz–Pachón D. A. (2013). Percolation for the stable marriage of Poisson and Lebesgue with random appetites. *Stochastics*, 85(2), 252–261.
-- Díaz–Pachón D. A. (2009). Algumas Propriedades de Alocaçoes para o processo pontual de Poisson. Doctoral Dissertation, *Instituto de Matemática e Estatística - Universidade de São Paulo*.
+- Díaz–Pachón D. A. (2009). Algumas propriedades de alocaçoes para o processo pontual de Poisson. Doctoral Dissertation, *Instituto de Matemática e Estatística - Universidade de São Paulo*.
 
 ## Author
 
