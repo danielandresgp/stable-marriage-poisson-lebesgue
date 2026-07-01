@@ -50,13 +50,13 @@ The last three parameters are for visualization of the generated figure.
 
 <div>
       <center>
-         <img src="https://github.com/user-attachments/assets/60e142ec-7e0e-4ec1-8bb5-8374af55b080" width="300" height="300">
-         <img src="https://github.com/user-attachments/assets/f60446d8-b03f-420f-8571-d04dcc1ca86f" width="300" height="300">
-         <img src="https://github.com/user-attachments/assets/affae5c3-4bd7-4d77-a028-42c474fdb3ba" width="300" height="300">
-         <img src="https://github.com/user-attachments/assets/6750e526-f843-423e-8006-621ce25d0712" width="300" height="300"> 
-         <img src="https://github.com/user-attachments/assets/133a7311-c6d9-45a2-b032-a17e131a9637" width="300" height="300">
-         <img src="https://github.com/user-attachments/assets/13c8281b-c617-4456-88da-f81d73f066f3" width="300" height="300">
-         <img src="https://github.com/user-attachments/assets/d4ad37f8-59e1-4eac-923d-7636b4324666" width="300" height="300">
+         <img src="https://github.com/user-attachments/assets/60e142ec-7e0e-4ec1-8bb5-8374af55b080" width="500" height="500">
+         <img src="https://github.com/user-attachments/assets/f60446d8-b03f-420f-8571-d04dcc1ca86f" width="500" height="500">
+         <img src="https://github.com/user-attachments/assets/affae5c3-4bd7-4d77-a028-42c474fdb3ba" width="500" height="500">
+         <img src="https://github.com/user-attachments/assets/6750e526-f843-423e-8006-621ce25d0712" width="500" height="500"> 
+         <img src="https://github.com/user-attachments/assets/133a7311-c6d9-45a2-b032-a17e131a9637" width="500" height="500">
+         <img src="https://github.com/user-attachments/assets/13c8281b-c617-4456-88da-f81d73f066f3" width="500" height="500">
+         <img src="https://github.com/user-attachments/assets/d4ad37f8-59e1-4eac-923d-7636b4324666" width="500" height="500">
       </center>   
       <p style="text-align: center"><font size="2"> For all models, $\lambda=1$.
       </font></p> 
